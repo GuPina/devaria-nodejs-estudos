@@ -19,6 +19,7 @@ do{
     controladorDoWhile++;
 }while(controladorDoWhile < listaArgumentos.length)
 
+
 console.log('------------------ Executando um DO FOR OF -----------------');
 let consoleForOf = 0;
 for(const argumento of listaArgumentos)
